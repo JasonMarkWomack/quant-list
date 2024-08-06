@@ -1,4 +1,4 @@
-# CipherAlpha Capital
+# CipherAlpha Capital Ltd.
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
 
