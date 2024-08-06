@@ -1,8 +1,7 @@
-# Awesome Quant
-
+# CipherAlpha Capital
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
-[![](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 ## Languages
 
